@@ -1,0 +1,8 @@
+Compute Sales - Results
+----------------------
+Catalogue file: TC1.ProductList.json
+Sales file: TC1.Sales.json
+
+TOTAL SALES: 2481.86
+
+Elapsed time (s): 0.0
